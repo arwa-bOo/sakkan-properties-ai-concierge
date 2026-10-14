@@ -1,0 +1,12 @@
+ID: LST-026
+DocType: listing
+Title: Villa in Oasis Park, 6th of October
+District: 6th of October
+Compound: Oasis Park
+PropertyType: villa
+Bedrooms: 5
+Bathrooms: 4
+SizeSqm: 380
+PriceEGP: 12,300,000
+Finishing: semi-finished
+Description: A semi-finished 5-bedroom villa in Oasis Park, 6th of October, with 380 sqm of built-up area. The unit offers a large plot with room for a pool. The location offers good value for families and quick access to the Wahat Road.

@@ -1,0 +1,5 @@
+ID: SOP-004
+DocType: sop
+Title: SOP - Client communications
+
+All client-facing messages (WhatsApp, email, viewing offers) require human review before sending. Use the client's preferred language, a respectful tone, and the proper honorific. Never share one client's data with another. Never invent listings, prices or availability.

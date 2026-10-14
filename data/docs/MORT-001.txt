@@ -1,0 +1,8 @@
+ID: MORT-001
+DocType: mortgage_sheet
+Bank: Delta National Bank
+AnnualRatePct: 18.0
+MaxTenureYears: 20
+MinDownPaymentPct: 20
+
+Rate sheet for Delta National Bank (fictional). Fixed rate for the full tenure. Salary transfer required. Maximum tenure 20 years, minimum down payment 20 percent, indicative rate 18.0 percent per year.

@@ -1,0 +1,8 @@
+ID: MORT-002
+DocType: mortgage_sheet
+Bank: Pyramid Housing Bank
+AnnualRatePct: 17.5
+MaxTenureYears: 15
+MinDownPaymentPct: 30
+
+Rate sheet for Pyramid Housing Bank (fictional). Lower rate but a higher minimum down payment. No early settlement fee after year 3. Maximum tenure 15 years, minimum down payment 30 percent, indicative rate 17.5 percent per year.

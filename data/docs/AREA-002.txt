@@ -1,0 +1,9 @@
+ID: AREA-002
+DocType: neighbourhood_guide
+District: Sheikh Zayed
+
+Neighbourhood guide for Sheikh Zayed (Zayed City and the Beverly Hills area).
+Commute: 40-60 minutes to Downtown, direct access to the Desert Road.
+Schools: Established private and international schools within 15 minutes.
+Malls and lifestyle: Zayed Plaza Mall and several open-air shopping streets.
+Average price: about 31,000 EGP per sqm for apartments.

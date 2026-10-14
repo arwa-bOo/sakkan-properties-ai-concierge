@@ -1,0 +1,12 @@
+ID: LST-033
+DocType: listing
+Title: Apartment in Sarayat Tower, Maadi
+District: Maadi
+Compound: Sarayat Tower
+PropertyType: apartment
+Bedrooms: 2
+Bathrooms: 1
+SizeSqm: 95
+PriceEGP: 4,300,000
+Finishing: fully finished
+Description: A fully finished 2-bedroom apartment in Sarayat Tower, Maadi, with 95 sqm of built-up area. The unit offers a compact layout that suits a single professional. The area is known for its tree-lined streets, embassies, and an established expat community.

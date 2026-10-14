@@ -1,0 +1,9 @@
+ID: AREA-005
+DocType: neighbourhood_guide
+District: North Coast
+
+Neighbourhood guide for North Coast (Sidi Abdel Rahman to Ras El Hekma strip).
+Commute: 3 to 4 hours drive from Cairo.
+Schools: Seasonal; no permanent international schools.
+Malls and lifestyle: Beach clubs, marina restaurants and seasonal malls.
+Average price: about 38,000 EGP per sqm for apartments.

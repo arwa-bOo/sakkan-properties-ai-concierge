@@ -1,0 +1,12 @@
+ID: LST-014
+DocType: listing
+Title: Townhouse in Green Belt Villas, Sheikh Zayed
+District: Sheikh Zayed
+Compound: Green Belt Villas
+PropertyType: townhouse
+Bedrooms: 4
+Bathrooms: 3
+SizeSqm: 250
+PriceEGP: 9,450,000
+Finishing: semi-finished
+Description: A semi-finished 4-bedroom townhouse in Green Belt Villas, Sheikh Zayed, with 250 sqm of built-up area. The unit offers a private garden and a spacious family room. Residents enjoy easy access to the Cairo-Alexandria Desert Road and Zayed's malls.

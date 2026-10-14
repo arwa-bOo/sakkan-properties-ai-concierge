@@ -1,0 +1,12 @@
+ID: CLT-005
+DocType: client_brief
+Name: Mr. Karim Nasser
+ArabicName: الأستاذ كريم ناصر
+BudgetEGP: 5,000,000 - 8,000,000
+PreferredDistricts: North Coast
+FamilySize: 4
+SchoolRequirement: Not needed
+Timeline: 1 month
+Language: both
+
+Notes: Wants a summer home with a sea view and rental potential.

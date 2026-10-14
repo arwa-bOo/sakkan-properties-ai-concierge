@@ -1,0 +1,5 @@
+ID: SOP-003
+DocType: sop
+Title: SOP - Disclosures
+
+Brokers must disclose the finishing status, any pending service fees, and any known legal or ownership issues before an offer is made. Mortgage figures shared with clients are indicative only and must be labelled as such.

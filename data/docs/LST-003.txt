@@ -1,0 +1,12 @@
+ID: LST-003
+DocType: listing
+Title: Apartment in Mountain Park Residence, New Cairo
+District: New Cairo
+Compound: Mountain Park Residence
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 145
+PriceEGP: 4,650,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Mountain Park Residence, New Cairo, with 145 sqm of built-up area. The unit offers a 12-minute drive to Horizon American School and the 90th Street cafes. The compound has quick access to the Ring Road and the American University area.

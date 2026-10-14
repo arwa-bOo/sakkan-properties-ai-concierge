@@ -1,0 +1,12 @@
+ID: LST-015
+DocType: listing
+Title: Villa in Green Belt Villas, Sheikh Zayed
+District: Sheikh Zayed
+Compound: Green Belt Villas
+PropertyType: villa
+Bedrooms: 4
+Bathrooms: 4
+SizeSqm: 350
+PriceEGP: 17,500,000
+Finishing: fully finished
+Description: A fully finished 4-bedroom villa in Green Belt Villas, Sheikh Zayed, with 350 sqm of built-up area. The unit offers a landscaped garden, a pool, and a separate guest suite. Residents enjoy easy access to the Cairo-Alexandria Desert Road and Zayed's malls.

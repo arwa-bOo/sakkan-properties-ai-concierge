@@ -1,0 +1,12 @@
+ID: LST-008
+DocType: listing
+Title: Villa in Mountain Park Residence, New Cairo
+District: New Cairo
+Compound: Mountain Park Residence
+PropertyType: villa
+Bedrooms: 4
+Bathrooms: 4
+SizeSqm: 320
+PriceEGP: 17,600,000
+Finishing: fully finished
+Description: A fully finished 4-bedroom villa in Mountain Park Residence, New Cairo, with 320 sqm of built-up area. The unit offers a standalone design with a swimming pool and a two-car garage. The compound has quick access to the Ring Road and the American University area.

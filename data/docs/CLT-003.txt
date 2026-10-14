@@ -1,0 +1,12 @@
+ID: CLT-003
+DocType: client_brief
+Name: Eng. Omar Farouk
+ArabicName: المهندس عمر فاروق
+BudgetEGP: 2,500,000 - 3,500,000
+PreferredDistricts: 6th of October
+FamilySize: 3
+SchoolRequirement: Nursery nearby
+Timeline: 6 months
+Language: English
+
+Notes: First-time buyer, interested in a mortgage.

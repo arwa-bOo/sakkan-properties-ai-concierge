@@ -1,0 +1,12 @@
+ID: LST-018
+DocType: listing
+Title: Villa in Orchard Park, Sheikh Zayed
+District: Sheikh Zayed
+Compound: Orchard Park
+PropertyType: villa
+Bedrooms: 4
+Bathrooms: 3
+SizeSqm: 300
+PriceEGP: 13,500,000
+Finishing: semi-finished
+Description: A semi-finished 4-bedroom villa in Orchard Park, Sheikh Zayed, with 300 sqm of built-up area. The unit offers a corner plot close to the compound's sports club. Residents enjoy easy access to the Cairo-Alexandria Desert Road and Zayed's malls.

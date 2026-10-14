@@ -1,0 +1,12 @@
+ID: LST-007
+DocType: listing
+Title: Apartment in Narges Gardens, New Cairo
+District: New Cairo
+Compound: Narges Gardens
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 155
+PriceEGP: 4,450,000
+Finishing: semi-finished
+Description: A semi-finished 3-bedroom apartment in Narges Gardens, New Cairo, with 155 sqm of built-up area. The unit offers a ground-floor layout with a private garden. The compound has quick access to the Ring Road and the American University area.

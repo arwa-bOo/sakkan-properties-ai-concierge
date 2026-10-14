@@ -1,0 +1,12 @@
+ID: LST-027
+DocType: listing
+Title: Apartment in Degla Residence, Maadi
+District: Maadi
+Compound: Degla Residence
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 170
+PriceEGP: 7,650,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Degla Residence, Maadi, with 170 sqm of built-up area. The unit offers a renovated kitchen and a quiet tree-lined street. The area is known for its tree-lined streets, embassies, and an established expat community.

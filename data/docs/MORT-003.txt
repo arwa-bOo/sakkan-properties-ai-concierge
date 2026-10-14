@@ -1,0 +1,8 @@
+ID: MORT-003
+DocType: mortgage_sheet
+Bank: Cairo Capital Bank
+AnnualRatePct: 19.0
+MaxTenureYears: 25
+MinDownPaymentPct: 25
+
+Rate sheet for Cairo Capital Bank (fictional). Longest tenure available. Variable rate reviewed every 12 months. Maximum tenure 25 years, minimum down payment 25 percent, indicative rate 19.0 percent per year.

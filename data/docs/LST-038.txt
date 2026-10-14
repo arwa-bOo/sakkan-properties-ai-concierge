@@ -1,0 +1,12 @@
+ID: LST-038
+DocType: listing
+Title: Apartment in Blue Marina, North Coast
+District: North Coast
+Compound: Blue Marina
+PropertyType: apartment
+Bedrooms: 1
+Bathrooms: 1
+SizeSqm: 70
+PriceEGP: 2,650,000
+Finishing: fully finished
+Description: A fully finished 1-bedroom apartment in Blue Marina, North Coast, with 70 sqm of built-up area. The unit offers a studio-style layout that works well for rental. The project sits close to the beach and is popular for summer use and rental income.

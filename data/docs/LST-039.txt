@@ -1,0 +1,12 @@
+ID: LST-039
+DocType: listing
+Title: Apartment in Sandy Bay, North Coast
+District: North Coast
+Compound: Sandy Bay
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 150
+PriceEGP: 5,700,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Sandy Bay, North Coast, with 150 sqm of built-up area. The unit offers a first-row lagoon view. The project sits close to the beach and is popular for summer use and rental income.

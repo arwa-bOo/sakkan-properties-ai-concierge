@@ -1,0 +1,12 @@
+ID: LST-001
+DocType: listing
+Title: Apartment in Narges Gardens, New Cairo
+District: New Cairo
+Compound: Narges Gardens
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 140
+PriceEGP: 4,500,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Narges Gardens, New Cairo, with 140 sqm of built-up area. The unit offers a 10-minute walk to Nile International School and a shared garden. The compound has quick access to the Ring Road and the American University area.

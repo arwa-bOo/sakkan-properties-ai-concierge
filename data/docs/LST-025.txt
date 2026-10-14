@@ -1,0 +1,12 @@
+ID: LST-025
+DocType: listing
+Title: Apartment in Sphinx Gardens, 6th of October
+District: 6th of October
+Compound: Sphinx Gardens
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 130
+PriceEGP: 2,800,000
+Finishing: semi-finished
+Description: A semi-finished 3-bedroom apartment in Sphinx Gardens, 6th of October, with 130 sqm of built-up area. The unit offers a budget-friendly layout close to the compound gate. The location offers good value for families and quick access to the Wahat Road.

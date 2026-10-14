@@ -1,0 +1,12 @@
+ID: LST-004
+DocType: listing
+Title: Apartment in Garden Hills, New Cairo
+District: New Cairo
+Compound: Garden Hills
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 3
+SizeSqm: 165
+PriceEGP: 5,300,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Garden Hills, New Cairo, with 165 sqm of built-up area. The unit offers a spacious reception area and access to a private roof terrace. The compound has quick access to the Ring Road and the American University area.

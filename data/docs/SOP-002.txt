@@ -1,0 +1,5 @@
+ID: SOP-002
+DocType: sop
+Title: SOP - Offers
+
+Offers are never sent to a client without the senior broker's approval. Every offer must quote the listing ID and the current listed price. No discount may be promised in writing. Negotiation requests must be escalated to a senior broker.

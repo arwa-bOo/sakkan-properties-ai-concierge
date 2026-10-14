@@ -1,0 +1,12 @@
+ID: LST-005
+DocType: listing
+Title: Apartment in Zahra Compound, New Cairo
+District: New Cairo
+Compound: Zahra Compound
+PropertyType: apartment
+Bedrooms: 2
+Bathrooms: 2
+SizeSqm: 110
+PriceEGP: 3,500,000
+Finishing: fully finished
+Description: A fully finished 2-bedroom apartment in Zahra Compound, New Cairo, with 110 sqm of built-up area. The unit offers a quiet courtyard setting that suits a young couple. The compound has quick access to the Ring Road and the American University area.

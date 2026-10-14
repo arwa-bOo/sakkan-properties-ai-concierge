@@ -1,0 +1,12 @@
+ID: CLT-001
+DocType: client_brief
+Name: Mr. Hassan Ibrahim
+ArabicName: الأستاذ حسن إبراهيم
+BudgetEGP: 4,000,000 - 5,000,000
+PreferredDistricts: New Cairo
+FamilySize: 5
+SchoolRequirement: International school within 15 minutes of home (two children, ages 7 and 10)
+Timeline: 3 months
+Language: Arabic
+
+Notes: Prefers apartments of 3 bedrooms in a gated compound.

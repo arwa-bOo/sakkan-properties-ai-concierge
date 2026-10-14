@@ -1,0 +1,36 @@
+# Responsible AI configuration — Sakkan Properties AI Concierge
+version: 1
+accuracy:
+  no_fabricated_listings: true          # every listing in a draft must exist in data/docs and be retrieved in the same run
+  no_fabricated_prices: true            # prices / mortgage figures come only from tools (MCP) or listing docs
+  provenance_required: true             # every reply cites at least one listing / document ID from RAG
+  on_no_match: "State plainly that nothing matches; never invent an address, price or listing ID."
+  mortgage_figures_label: "Indicative only and non-binding"
+  validation: "LLM drafts are checked against retrieved listing IDs; failing drafts are replaced by a deterministic template."
+language_and_tone:
+  languages: [Arabic, English]
+  require_respectful_tone: true
+  honorifics: "Use the client's proper honorific (الأستاذ / السيدة / المهندس / الدكتورة, Mr. / Mrs. / Eng. / Dr.)."
+  forbidden: ["pressure tactics", "discriminatory remarks (religion, nationality, gender, family status)", "promises of discounts or guaranteed returns"]
+escalation:
+  escalate_to_senior_broker_when:
+    - "legal advice, disputes or lawsuits"
+    - "price negotiation or discount requests"
+    - "client complaints or suspected fraud"
+    - "tool-call or step limit exceeded (fallback answers with explicit uncertainty)"
+  action: "No client message is drafted; the broker is told why and what to do next."
+privacy:
+  scope_memory_by_client_id: true       # every memory is stored under user_id = client_id
+  consent_required_for_memory_write: true
+  forget_command: "/forget <client_id> deletes all memory for the client and reports the COUNT only"
+  no_cross_client_data: "Other clients' briefs are filtered out of retrieval; client IDs of other clients are redacted from errors."
+  logs: "Trace logs store IDs, counts and decisions — never memory content."
+human_review:
+  mandatory_for_every_client_facing_message: true   # WhatsApp, email and viewing offers; cannot be disabled
+  actions: [approve, reject, edit]
+  fail_closed: "No answer, timeout or invalid decision = reject."
+  side_effects_after_approval_only: ["schedule_viewing"]
+limits:
+  max_steps: 12
+  per_agent_tool_calls: 4
+  per_run_tool_calls: 10

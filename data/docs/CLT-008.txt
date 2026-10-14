@@ -1,0 +1,12 @@
+ID: CLT-008
+DocType: client_brief
+Name: Ms. Laila Mostafa
+ArabicName: الآنسة ليلى مصطفى
+BudgetEGP: 3,500,000 - 5,000,000
+PreferredDistricts: Maadi
+FamilySize: 1
+SchoolRequirement: Not needed
+Timeline: 2 months
+Language: English
+
+Notes: Single professional, wants a compact apartment close to work.

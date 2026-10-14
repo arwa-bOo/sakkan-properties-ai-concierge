@@ -1,0 +1,9 @@
+ID: AREA-001
+DocType: neighbourhood_guide
+District: New Cairo
+
+Neighbourhood guide for New Cairo (Fifth Settlement and surrounding compounds).
+Commute: 35-50 minutes to Downtown outside rush hour, 25 minutes to Cairo Airport.
+Schools: Several international schools including Nile International School and Horizon American School.
+Malls and lifestyle: Large malls and the 90th Street cafe strip.
+Average price: about 33,000 EGP per sqm for apartments.

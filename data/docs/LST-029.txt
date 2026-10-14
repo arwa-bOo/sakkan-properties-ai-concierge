@@ -1,0 +1,12 @@
+ID: LST-029
+DocType: listing
+Title: Apartment in Road 9 Building, Maadi
+District: Maadi
+Compound: Road 9 Building
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 200
+PriceEGP: 9,000,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Road 9 Building, Maadi, with 200 sqm of built-up area. The unit offers high ceilings and a large entrance reception. The area is known for its tree-lined streets, embassies, and an established expat community.

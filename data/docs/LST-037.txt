@@ -1,0 +1,12 @@
+ID: LST-037
+DocType: listing
+Title: Townhouse in Palm Shore, North Coast
+District: North Coast
+Compound: Palm Shore
+PropertyType: townhouse
+Bedrooms: 3
+Bathrooms: 3
+SizeSqm: 200
+PriceEGP: 9,000,000
+Finishing: semi-finished
+Description: A semi-finished 3-bedroom townhouse in Palm Shore, North Coast, with 200 sqm of built-up area. The unit offers a garden and two parking spaces. The project sits close to the beach and is popular for summer use and rental income.

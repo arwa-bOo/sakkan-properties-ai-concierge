@@ -1,0 +1,12 @@
+ID: LST-019
+DocType: listing
+Title: Apartment in Hadayek Residence, 6th of October
+District: 6th of October
+Compound: Hadayek Residence
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 140
+PriceEGP: 3,350,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Hadayek Residence, 6th of October, with 140 sqm of built-up area. The unit offers a ground-level garden and underground parking. The location offers good value for families and quick access to the Wahat Road.

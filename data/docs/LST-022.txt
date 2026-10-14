@@ -1,0 +1,12 @@
+ID: LST-022
+DocType: listing
+Title: Townhouse in Oasis Park, 6th of October
+District: 6th of October
+Compound: Oasis Park
+PropertyType: townhouse
+Bedrooms: 3
+Bathrooms: 3
+SizeSqm: 220
+PriceEGP: 6,600,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom townhouse in Oasis Park, 6th of October, with 220 sqm of built-up area. The unit offers a private entrance and a small garden. The location offers good value for families and quick access to the Wahat Road.

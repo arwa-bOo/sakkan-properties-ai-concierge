@@ -1,0 +1,12 @@
+ID: LST-040
+DocType: listing
+Title: Villa in Coral Heights, North Coast
+District: North Coast
+Compound: Coral Heights
+PropertyType: villa
+Bedrooms: 5
+Bathrooms: 5
+SizeSqm: 380
+PriceEGP: 22,800,000
+Finishing: fully finished
+Description: A fully finished 5-bedroom villa in Coral Heights, North Coast, with 380 sqm of built-up area. The unit offers a beachfront location and a large entertaining terrace. The project sits close to the beach and is popular for summer use and rental income.

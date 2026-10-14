@@ -1,0 +1,12 @@
+ID: CLT-006
+DocType: client_brief
+Name: Mrs. Heba Fawzy
+ArabicName: السيدة هبة فوزي
+BudgetEGP: 4,500,000 - 5,500,000
+PreferredDistricts: Sheikh Zayed
+FamilySize: 4
+SchoolRequirement: Private school within 20 minutes
+Timeline: 3 months
+Language: Arabic
+
+Notes: Needs 3 bedrooms and a ground floor or elevator.

@@ -1,0 +1,12 @@
+ID: LST-016
+DocType: listing
+Title: Villa in Palm Court, Sheikh Zayed
+District: Sheikh Zayed
+Compound: Palm Court
+PropertyType: villa
+Bedrooms: 5
+Bathrooms: 5
+SizeSqm: 450
+PriceEGP: 22,500,000
+Finishing: fully finished
+Description: A fully finished 5-bedroom villa in Palm Court, Sheikh Zayed, with 450 sqm of built-up area. The unit offers a double-height reception and a home cinema room. Residents enjoy easy access to the Cairo-Alexandria Desert Road and Zayed's malls.

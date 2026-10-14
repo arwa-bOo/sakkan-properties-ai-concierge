@@ -1,0 +1,12 @@
+ID: LST-017
+DocType: listing
+Title: Apartment in Dunes Residence, Sheikh Zayed
+District: Sheikh Zayed
+Compound: Dunes Residence
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 160
+PriceEGP: 4,300,000
+Finishing: semi-finished
+Description: A semi-finished 3-bedroom apartment in Dunes Residence, Sheikh Zayed, with 160 sqm of built-up area. The unit offers a quiet street and a garden-facing balcony. Residents enjoy easy access to the Cairo-Alexandria Desert Road and Zayed's malls.

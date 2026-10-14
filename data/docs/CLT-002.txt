@@ -1,0 +1,12 @@
+ID: CLT-002
+DocType: client_brief
+Name: Mrs. Nadia Magdy
+ArabicName: السيدة نادية مجدي
+BudgetEGP: 15,000,000 - 20,000,000
+PreferredDistricts: Sheikh Zayed
+FamilySize: 4
+SchoolRequirement: Not a priority
+Timeline: 2 months
+Language: both
+
+Notes: Looking for a standalone villa with a garden and a pool.

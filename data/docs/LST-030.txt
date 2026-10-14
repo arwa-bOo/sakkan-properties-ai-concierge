@@ -1,0 +1,12 @@
+ID: LST-030
+DocType: listing
+Title: Apartment in Zahraa Gardens, Maadi
+District: Maadi
+Compound: Zahraa Gardens
+PropertyType: apartment
+Bedrooms: 4
+Bathrooms: 3
+SizeSqm: 230
+PriceEGP: 10,350,000
+Finishing: fully finished
+Description: A fully finished 4-bedroom apartment in Zahraa Gardens, Maadi, with 230 sqm of built-up area. The unit offers a spacious layout close to international schools. The area is known for its tree-lined streets, embassies, and an established expat community.

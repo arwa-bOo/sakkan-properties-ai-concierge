@@ -1,0 +1,12 @@
+ID: LST-010
+DocType: listing
+Title: Villa in Zahra Compound, New Cairo
+District: New Cairo
+Compound: Zahra Compound
+PropertyType: villa
+Bedrooms: 5
+Bathrooms: 5
+SizeSqm: 420
+PriceEGP: 23,100,000
+Finishing: fully finished
+Description: A fully finished 5-bedroom villa in Zahra Compound, New Cairo, with 420 sqm of built-up area. The unit offers a wide-street plot and a rooftop lounge. The compound has quick access to the Ring Road and the American University area.

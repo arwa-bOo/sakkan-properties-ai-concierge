@@ -1,0 +1,12 @@
+ID: LST-023
+DocType: listing
+Title: Villa in Hadayek Residence, 6th of October
+District: 6th of October
+Compound: Hadayek Residence
+PropertyType: villa
+Bedrooms: 4
+Bathrooms: 4
+SizeSqm: 300
+PriceEGP: 10,800,000
+Finishing: fully finished
+Description: A fully finished 4-bedroom villa in Hadayek Residence, 6th of October, with 300 sqm of built-up area. The unit offers a swimming pool and a landscaped garden. The location offers good value for families and quick access to the Wahat Road.

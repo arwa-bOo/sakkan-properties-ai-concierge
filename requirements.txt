@@ -1,0 +1,14 @@
+# Tested on Python 3.12 (3.10+ supported). `pip check` is clean with these pins.
+chainlit==2.12.0
+deepeval==4.2.8
+google-genai==2.30.0
+langgraph==1.2.15
+mcp==1.30.0            # keep <2: mcp 2.x renamed FastMCP
+mem0ai==2.2.1
+pydantic==2.14.1
+pytest==9.1.1
+python-dotenv==1.2.4
+PyYAML==6.0.3
+qdrant-client==1.19.1
+structlog==26.1.0
+matplotlib>=3.8        # only for scripts/make_architecture.py

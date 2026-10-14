@@ -1,0 +1,12 @@
+ID: LST-024
+DocType: listing
+Title: Apartment in Pyramids Heights, 6th of October
+District: 6th of October
+Compound: Pyramids Heights
+PropertyType: apartment
+Bedrooms: 4
+Bathrooms: 3
+SizeSqm: 180
+PriceEGP: 4,300,000
+Finishing: fully finished
+Description: A fully finished 4-bedroom apartment in Pyramids Heights, 6th of October, with 180 sqm of built-up area. The unit offers a family layout with a large balcony. The location offers good value for families and quick access to the Wahat Road.

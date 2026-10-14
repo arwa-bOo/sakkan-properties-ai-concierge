@@ -1,0 +1,12 @@
+ID: LST-002
+DocType: listing
+Title: Apartment in Lotus Heights, New Cairo
+District: New Cairo
+Compound: Lotus Heights
+PropertyType: apartment
+Bedrooms: 3
+Bathrooms: 2
+SizeSqm: 150
+PriceEGP: 4,800,000
+Finishing: fully finished
+Description: A fully finished 3-bedroom apartment in Lotus Heights, New Cairo, with 150 sqm of built-up area. The unit offers a bright corner layout with a balcony facing the central park. The compound has quick access to the Ring Road and the American University area.

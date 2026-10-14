@@ -1,0 +1,5 @@
+ID: SOP-001
+DocType: sop
+Title: SOP - Viewings
+
+Every viewing must be booked through the viewing scheduler and confirmed in writing to the client. A broker must accompany the client at all times. Viewings are offered in 60-minute slots between 10:00 and 18:00. Cancellations need 24 hours notice.

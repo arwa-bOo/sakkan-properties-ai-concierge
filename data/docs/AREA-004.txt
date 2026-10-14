@@ -1,0 +1,9 @@
+ID: AREA-004
+DocType: neighbourhood_guide
+District: Maadi
+
+Neighbourhood guide for Maadi (Degla, Sarayat and the Road 9 area).
+Commute: 20-35 minutes to Downtown by car or metro.
+Schools: Strong international school cluster and many nurseries.
+Malls and lifestyle: Maadi City Center and boutique shops on Road 9.
+Average price: about 45,000 EGP per sqm for apartments.

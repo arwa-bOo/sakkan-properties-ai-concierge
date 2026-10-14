@@ -1,0 +1,12 @@
+ID: CLT-007
+DocType: client_brief
+Name: Mr. Tarek Zaki
+ArabicName: الأستاذ طارق زكي
+BudgetEGP: 9,000,000 - 12,000,000
+PreferredDistricts: New Cairo
+FamilySize: 6
+SchoolRequirement: International school required
+Timeline: 5 months
+Language: English
+
+Notes: Looking for a townhouse with at least 3 bedrooms.

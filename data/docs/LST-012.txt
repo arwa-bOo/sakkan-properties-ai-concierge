@@ -1,0 +1,12 @@
+ID: LST-012
+DocType: listing
+Title: Apartment in Palm Court, Sheikh Zayed
+District: Sheikh Zayed
+Compound: Palm Court
+PropertyType: apartment
+Bedrooms: 2
+Bathrooms: 2
+SizeSqm: 105
+PriceEGP: 3,150,000
+Finishing: fully finished
+Description: A fully finished 2-bedroom apartment in Palm Court, Sheikh Zayed, with 105 sqm of built-up area. The unit offers a clubhouse and a heated pool shared by residents. Residents enjoy easy access to the Cairo-Alexandria Desert Road and Zayed's malls.

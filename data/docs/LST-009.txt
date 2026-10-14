@@ -1,0 +1,12 @@
+ID: LST-009
+DocType: listing
+Title: Townhouse in Garden Hills, New Cairo
+District: New Cairo
+Compound: Garden Hills
+PropertyType: townhouse
+Bedrooms: 3
+Bathrooms: 3
+SizeSqm: 230
+PriceEGP: 9,500,000
+Finishing: semi-finished
+Description: A semi-finished 3-bedroom townhouse in Garden Hills, New Cairo, with 230 sqm of built-up area. The unit offers a corner plot with a landscaped front yard. The compound has quick access to the Ring Road and the American University area.

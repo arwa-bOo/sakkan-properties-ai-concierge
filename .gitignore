@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.qdrant_local/
+.qdrant_storage/
+.memory/
+.chainlit/
+.files/
+outputs/viewings.json
+outputs/trace_logs_eval.jsonl
+.pytest_cache/

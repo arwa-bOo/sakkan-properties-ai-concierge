@@ -1,0 +1,12 @@
+ID: LST-031
+DocType: listing
+Title: Villa in Degla Residence, Maadi
+District: Maadi
+Compound: Degla Residence
+PropertyType: villa
+Bedrooms: 5
+Bathrooms: 5
+SizeSqm: 400
+PriceEGP: 32,000,000
+Finishing: fully finished
+Description: A fully finished 5-bedroom villa in Degla Residence, Maadi, with 400 sqm of built-up area. The unit offers a private garden and a separate staff entrance. The area is known for its tree-lined streets, embassies, and an established expat community.

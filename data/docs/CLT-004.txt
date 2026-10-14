@@ -1,0 +1,12 @@
+ID: CLT-004
+DocType: client_brief
+Name: Dr. Salma Adel
+ArabicName: الدكتورة سلمى عادل
+BudgetEGP: 6,000,000 - 9,000,000
+PreferredDistricts: Maadi
+FamilySize: 2
+SchoolRequirement: Not needed
+Timeline: 4 months
+Language: both
+
+Notes: Wants a quiet street and walking distance to cafes.
